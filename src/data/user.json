@@ -1,8 +1,10 @@
 {
     "username": "Mike Machine",
-    "tag": "mikmach",
+    "tag": "@mikmach",
     "location": "London, UK",
-    "avatar": "https://www.flaticon.com/free-icons/young" ,
+
+    "avatar": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+
     "stats": {
         "followers": 2333,
         "views": 1549,
