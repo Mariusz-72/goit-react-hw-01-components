@@ -6,8 +6,7 @@ const Statistics = ({ title, stats }) => {
         return '#' + Math.floor(Math.random() * 0xffffff).toString(16);
     }
 
-    const Statistics = props => {
-    const { title, stats } = props;
+
         return (
             <section className={css.statistics}>
                 {title && <h2 className={css.title}>{title}</h2>}
@@ -37,5 +36,5 @@ const Statistics = ({ title, stats }) => {
         })
         ),
     };
-};
+
 export default Statistics;
